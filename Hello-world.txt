@@ -1,3 +1,9 @@
 Hello World text here
 This is my secong batch of changes in this file
 And third
+Test again with 4th set of changes here. 
+What I am going to do to save the changes: 
+1. Add Hello-world to the staging are by typing git add Hello-world.txt
+2. Check status with git status. It needs to be in green and say changes commited. 
+3. Commit the changes by typing git commit -m "Committing 4th set of changes in Hello-world.txt"
+4. Test it by opening the file in GitHub
